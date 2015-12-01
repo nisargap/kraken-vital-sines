@@ -1,0 +1,13 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "description": "Kraken migration of vital sines",
+    "author": "Nisarga Patel",
+    "templateModule": "makara",
+    "i18n": "i18n",
+    "componentPackager": "bower",
+    "cssModule": "sass",
+    "jsModule": "requirejs",
+    "useJson": null
+  }
+}
